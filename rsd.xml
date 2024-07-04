@@ -1,0 +1,13 @@
+
+<?xml version="1.0"?> 
+<rsd version="1.0" xmlns="http://archipelago.phrasewise.com/rsd">
+<service>
+<engineName>Movable Type 3.15</engineName> 
+<engineLink>http://www.movabletype.org/</engineLink>
+<homePageLink>http://weblogs.media.mit.edu/llk/scratch/</homePageLink>
+<apis>
+<api name="MetaWeblog" preferred="true" apiLink="http://weblogs.media.mit.edu/llk/mt-xmlrpc.cgi" blogID="3" />
+<api name="Blogger" preferred="false" apiLink="http://weblogs.media.mit.edu/llk/mt-xmlrpc.cgi" blogID="3" />
+</apis>
+</service>
+</rsd>
